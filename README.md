@@ -2,4 +2,4 @@
 
 This repository contains the source code for the paper titled "DAGs as Minimal I-maps for the Induced Models of Causal Bayesian Networks under Conditioning". The code is implemented in R and requires the data on graph at https://www.bnlearn.com/bnrepository/.
 
-
+It contains two subfolders. The folder named "Appendix_F_Code" includes two subfiles, which are the experimental codes for Appendix F. For convenience, we have only provided the code for when the network is "Asia"; the codes for other networks are similar. The folder named "Main_Text_Code" contains six files, which are the experimental codes for the main part of the paper. Among them, the file named "Repeated Query" is the code for implementing the subsection of repeated queries in the paper. Similarly, for convenience, we have only provided the code for one conditioning set. The experimental results corresponding to other conditioning sets can be reproduced by simply changing the conditioning set.
